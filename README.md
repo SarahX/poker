@@ -5,7 +5,7 @@ Problem 1:
 
 The test method for this problem is in test.java
 
-In the file Card.java, we declared a public class called Card, along with two protected variables, an int rank and a String suit, then created two arrays suits and ranks in order to model the characteristics of a card. After this, we made a constrcutor for the card class, a toString function, and getter methods for the rank and suit. 
+In the file Card.java, we declared a public class called Card, along with two protected variables, an int rank and an int suit, then created two String arrays suits and ranks in order to model the characteristics of a card. After this, we made a constrcutor for the card class, a toString function, and getter methods for the rank and suit. 
 
 In the file Deck.java, we declared a public class called Deck, where we create a new array cardDeck from the Card array, which has 52 cards, generate a new card through iteration with a for loop and then shuffle these cards in the new deck through the use of a shuffle function that also utilizes a for loop to randomly select from the deck, remove the card from the next round of shuffling, and return the cardDeck. 
 
