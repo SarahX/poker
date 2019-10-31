@@ -26,7 +26,7 @@ Problem 4:
 
 Problem 4 is in the test.java file.
 
-In Problem 4, we create a scanner scan that takes user input for the rank and suit of five cards (a hand) two times each, in a loop, which stores the input into two arrays of the Card array (test1 and test2), and then we use the same method as we used to compare the two hands in the previous question (three) to once again compare the values of the two hands, and print the result (who wins the round). When the user is prompted, there is information about what kind of data should be inputted. 
+In Problem 4, we create a scanner scan that takes user input for the rank and suit of five cards (a hand) two times each, in a loop, which stores the input into two arrays of the Card array (test1 and test2), and then we use the same method as we used to compare the two hands in a previous question to once again compare the values of the two hands, and print the result (who wins the round). This is using methods called from the hand class as used prior. When the user is prompted, there is information about what kind of data should be inputted. 
 
    
    
