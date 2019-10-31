@@ -18,7 +18,7 @@ Problem 3 involves a lot of classification, and therefore, lots of conditional s
 
 Problem 4:
 
-
+In Problem 4, we create a scanner scan that takes user input for the rank and suit of five cards (a hand) two times each, in a loop, and then we use the same method as we used to compare the two hands in the previous question (three) to once again compare the values of the two hands, and print the result (who win the round). 
 
    
    
