@@ -1,5 +1,5 @@
 # poker
-Worked with Sarah O'Connor
+A collaboration with Olivia and Sarah O'Connor
 
 Problem 1:
 
